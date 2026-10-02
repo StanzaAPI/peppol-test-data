@@ -1,0 +1,141 @@
+{
+  "name": "Peppol BIS Test Data",
+  "description": "Well-formed UBL Invoice documents with the Peppol BIS Billing 3.0 customization ID and synthetic parties.",
+  "source": "https://stanzaapi.com/datasets/peppol",
+  "license": "CC0-1.0",
+  "validity": "structurally-synthetic",
+  "size": "small",
+  "count": 25,
+  "columns": [
+    "invoice_id",
+    "profile",
+    "document"
+  ],
+  "rows": [
+    {
+      "invoice_id": "INV-535854",
+      "profile": "Peppol BIS Billing 3.0",
+      "document": "<Invoice xmlns=\"urn:oasis:names:specification:ubl:schema:xsd:Invoice-2\"><cbc:CustomizationID>urn:fdc:peppol.eu:2017:poacc:billing:01:1.0</cbc:CustomizationID><cbc:ID>INV-535854</cbc:ID><cbc:IssueDate>2026-01-01</cbc:IssueDate><cbc:DocumentCurrencyCode>EUR</cbc:DocumentCurrencyCode><cac:AccountingSupplierParty><cac:Party><cbc:EndpointID schemeID=\"0088\">4412450124960</cbc:EndpointID></cac:Party></cac:AccountingSupplierParty><cac:LegalMonetaryTotal><cbc:PayableAmount currencyID=\"EUR\">100.00</cbc:PayableAmount></cac:LegalMonetaryTotal></Invoice>"
+    },
+    {
+      "invoice_id": "INV-975294",
+      "profile": "Peppol BIS Billing 3.0",
+      "document": "<Invoice xmlns=\"urn:oasis:names:specification:ubl:schema:xsd:Invoice-2\"><cbc:CustomizationID>urn:fdc:peppol.eu:2017:poacc:billing:01:1.0</cbc:CustomizationID><cbc:ID>INV-975294</cbc:ID><cbc:IssueDate>2026-01-01</cbc:IssueDate><cbc:DocumentCurrencyCode>EUR</cbc:DocumentCurrencyCode><cac:AccountingSupplierParty><cac:Party><cbc:EndpointID schemeID=\"0088\">5294827108203</cbc:EndpointID></cac:Party></cac:AccountingSupplierParty><cac:LegalMonetaryTotal><cbc:PayableAmount currencyID=\"EUR\">100.00</cbc:PayableAmount></cac:LegalMonetaryTotal></Invoice>"
+    },
+    {
+      "invoice_id": "INV-112888",
+      "profile": "Peppol BIS Billing 3.0",
+      "document": "<Invoice xmlns=\"urn:oasis:names:specification:ubl:schema:xsd:Invoice-2\"><cbc:CustomizationID>urn:fdc:peppol.eu:2017:poacc:billing:01:1.0</cbc:CustomizationID><cbc:ID>INV-112888</cbc:ID><cbc:IssueDate>2026-01-01</cbc:IssueDate><cbc:DocumentCurrencyCode>EUR</cbc:DocumentCurrencyCode><cac:AccountingSupplierParty><cac:Party><cbc:EndpointID schemeID=\"0088\">8715464444973</cbc:EndpointID></cac:Party></cac:AccountingSupplierParty><cac:LegalMonetaryTotal><cbc:PayableAmount currencyID=\"EUR\">100.00</cbc:PayableAmount></cac:LegalMonetaryTotal></Invoice>"
+    },
+    {
+      "invoice_id": "INV-419886",
+      "profile": "Peppol BIS Billing 3.0",
+      "document": "<Invoice xmlns=\"urn:oasis:names:specification:ubl:schema:xsd:Invoice-2\"><cbc:CustomizationID>urn:fdc:peppol.eu:2017:poacc:billing:01:1.0</cbc:CustomizationID><cbc:ID>INV-419886</cbc:ID><cbc:IssueDate>2026-01-01</cbc:IssueDate><cbc:DocumentCurrencyCode>EUR</cbc:DocumentCurrencyCode><cac:AccountingSupplierParty><cac:Party><cbc:EndpointID schemeID=\"0088\">2208767833169</cbc:EndpointID></cac:Party></cac:AccountingSupplierParty><cac:LegalMonetaryTotal><cbc:PayableAmount currencyID=\"EUR\">100.00</cbc:PayableAmount></cac:LegalMonetaryTotal></Invoice>"
+    },
+    {
+      "invoice_id": "INV-994435",
+      "profile": "Peppol BIS Billing 3.0",
+      "document": "<Invoice xmlns=\"urn:oasis:names:specification:ubl:schema:xsd:Invoice-2\"><cbc:CustomizationID>urn:fdc:peppol.eu:2017:poacc:billing:01:1.0</cbc:CustomizationID><cbc:ID>INV-994435</cbc:ID><cbc:IssueDate>2026-01-01</cbc:IssueDate><cbc:DocumentCurrencyCode>EUR</cbc:DocumentCurrencyCode><cac:AccountingSupplierParty><cac:Party><cbc:EndpointID schemeID=\"0088\">9835565930560</cbc:EndpointID></cac:Party></cac:AccountingSupplierParty><cac:LegalMonetaryTotal><cbc:PayableAmount currencyID=\"EUR\">100.00</cbc:PayableAmount></cac:LegalMonetaryTotal></Invoice>"
+    },
+    {
+      "invoice_id": "INV-180087",
+      "profile": "Peppol BIS Billing 3.0",
+      "document": "<Invoice xmlns=\"urn:oasis:names:specification:ubl:schema:xsd:Invoice-2\"><cbc:CustomizationID>urn:fdc:peppol.eu:2017:poacc:billing:01:1.0</cbc:CustomizationID><cbc:ID>INV-180087</cbc:ID><cbc:IssueDate>2026-01-01</cbc:IssueDate><cbc:DocumentCurrencyCode>EUR</cbc:DocumentCurrencyCode><cac:AccountingSupplierParty><cac:Party><cbc:EndpointID schemeID=\"0088\">7810926876719</cbc:EndpointID></cac:Party></cac:AccountingSupplierParty><cac:LegalMonetaryTotal><cbc:PayableAmount currencyID=\"EUR\">100.00</cbc:PayableAmount></cac:LegalMonetaryTotal></Invoice>"
+    },
+    {
+      "invoice_id": "INV-006862",
+      "profile": "Peppol BIS Billing 3.0",
+      "document": "<Invoice xmlns=\"urn:oasis:names:specification:ubl:schema:xsd:Invoice-2\"><cbc:CustomizationID>urn:fdc:peppol.eu:2017:poacc:billing:01:1.0</cbc:CustomizationID><cbc:ID>INV-006862</cbc:ID><cbc:IssueDate>2026-01-01</cbc:IssueDate><cbc:DocumentCurrencyCode>EUR</cbc:DocumentCurrencyCode><cac:AccountingSupplierParty><cac:Party><cbc:EndpointID schemeID=\"0088\">5700181859895</cbc:EndpointID></cac:Party></cac:AccountingSupplierParty><cac:LegalMonetaryTotal><cbc:PayableAmount currencyID=\"EUR\">100.00</cbc:PayableAmount></cac:LegalMonetaryTotal></Invoice>"
+    },
+    {
+      "invoice_id": "INV-679034",
+      "profile": "Peppol BIS Billing 3.0",
+      "document": "<Invoice xmlns=\"urn:oasis:names:specification:ubl:schema:xsd:Invoice-2\"><cbc:CustomizationID>urn:fdc:peppol.eu:2017:poacc:billing:01:1.0</cbc:CustomizationID><cbc:ID>INV-679034</cbc:ID><cbc:IssueDate>2026-01-01</cbc:IssueDate><cbc:DocumentCurrencyCode>EUR</cbc:DocumentCurrencyCode><cac:AccountingSupplierParty><cac:Party><cbc:EndpointID schemeID=\"0088\">6187026408413</cbc:EndpointID></cac:Party></cac:AccountingSupplierParty><cac:LegalMonetaryTotal><cbc:PayableAmount currencyID=\"EUR\">100.00</cbc:PayableAmount></cac:LegalMonetaryTotal></Invoice>"
+    },
+    {
+      "invoice_id": "INV-747517",
+      "profile": "Peppol BIS Billing 3.0",
+      "document": "<Invoice xmlns=\"urn:oasis:names:specification:ubl:schema:xsd:Invoice-2\"><cbc:CustomizationID>urn:fdc:peppol.eu:2017:poacc:billing:01:1.0</cbc:CustomizationID><cbc:ID>INV-747517</cbc:ID><cbc:IssueDate>2026-01-01</cbc:IssueDate><cbc:DocumentCurrencyCode>EUR</cbc:DocumentCurrencyCode><cac:AccountingSupplierParty><cac:Party><cbc:EndpointID schemeID=\"0088\">7844950066849</cbc:EndpointID></cac:Party></cac:AccountingSupplierParty><cac:LegalMonetaryTotal><cbc:PayableAmount currencyID=\"EUR\">100.00</cbc:PayableAmount></cac:LegalMonetaryTotal></Invoice>"
+    },
+    {
+      "invoice_id": "INV-846465",
+      "profile": "Peppol BIS Billing 3.0",
+      "document": "<Invoice xmlns=\"urn:oasis:names:specification:ubl:schema:xsd:Invoice-2\"><cbc:CustomizationID>urn:fdc:peppol.eu:2017:poacc:billing:01:1.0</cbc:CustomizationID><cbc:ID>INV-846465</cbc:ID><cbc:IssueDate>2026-01-01</cbc:IssueDate><cbc:DocumentCurrencyCode>EUR</cbc:DocumentCurrencyCode><cac:AccountingSupplierParty><cac:Party><cbc:EndpointID schemeID=\"0088\">7901507518926</cbc:EndpointID></cac:Party></cac:AccountingSupplierParty><cac:LegalMonetaryTotal><cbc:PayableAmount currencyID=\"EUR\">100.00</cbc:PayableAmount></cac:LegalMonetaryTotal></Invoice>"
+    },
+    {
+      "invoice_id": "INV-108788",
+      "profile": "Peppol BIS Billing 3.0",
+      "document": "<Invoice xmlns=\"urn:oasis:names:specification:ubl:schema:xsd:Invoice-2\"><cbc:CustomizationID>urn:fdc:peppol.eu:2017:poacc:billing:01:1.0</cbc:CustomizationID><cbc:ID>INV-108788</cbc:ID><cbc:IssueDate>2026-01-01</cbc:IssueDate><cbc:DocumentCurrencyCode>EUR</cbc:DocumentCurrencyCode><cac:AccountingSupplierParty><cac:Party><cbc:EndpointID schemeID=\"0088\">7315627915736</cbc:EndpointID></cac:Party></cac:AccountingSupplierParty><cac:LegalMonetaryTotal><cbc:PayableAmount currencyID=\"EUR\">100.00</cbc:PayableAmount></cac:LegalMonetaryTotal></Invoice>"
+    },
+    {
+      "invoice_id": "INV-954388",
+      "profile": "Peppol BIS Billing 3.0",
+      "document": "<Invoice xmlns=\"urn:oasis:names:specification:ubl:schema:xsd:Invoice-2\"><cbc:CustomizationID>urn:fdc:peppol.eu:2017:poacc:billing:01:1.0</cbc:CustomizationID><cbc:ID>INV-954388</cbc:ID><cbc:IssueDate>2026-01-01</cbc:IssueDate><cbc:DocumentCurrencyCode>EUR</cbc:DocumentCurrencyCode><cac:AccountingSupplierParty><cac:Party><cbc:EndpointID schemeID=\"0088\">3289278561807</cbc:EndpointID></cac:Party></cac:AccountingSupplierParty><cac:LegalMonetaryTotal><cbc:PayableAmount currencyID=\"EUR\">100.00</cbc:PayableAmount></cac:LegalMonetaryTotal></Invoice>"
+    },
+    {
+      "invoice_id": "INV-399901",
+      "profile": "Peppol BIS Billing 3.0",
+      "document": "<Invoice xmlns=\"urn:oasis:names:specification:ubl:schema:xsd:Invoice-2\"><cbc:CustomizationID>urn:fdc:peppol.eu:2017:poacc:billing:01:1.0</cbc:CustomizationID><cbc:ID>INV-399901</cbc:ID><cbc:IssueDate>2026-01-01</cbc:IssueDate><cbc:DocumentCurrencyCode>EUR</cbc:DocumentCurrencyCode><cac:AccountingSupplierParty><cac:Party><cbc:EndpointID schemeID=\"0088\">7921396058483</cbc:EndpointID></cac:Party></cac:AccountingSupplierParty><cac:LegalMonetaryTotal><cbc:PayableAmount currencyID=\"EUR\">100.00</cbc:PayableAmount></cac:LegalMonetaryTotal></Invoice>"
+    },
+    {
+      "invoice_id": "INV-258831",
+      "profile": "Peppol BIS Billing 3.0",
+      "document": "<Invoice xmlns=\"urn:oasis:names:specification:ubl:schema:xsd:Invoice-2\"><cbc:CustomizationID>urn:fdc:peppol.eu:2017:poacc:billing:01:1.0</cbc:CustomizationID><cbc:ID>INV-258831</cbc:ID><cbc:IssueDate>2026-01-01</cbc:IssueDate><cbc:DocumentCurrencyCode>EUR</cbc:DocumentCurrencyCode><cac:AccountingSupplierParty><cac:Party><cbc:EndpointID schemeID=\"0088\">6855479425769</cbc:EndpointID></cac:Party></cac:AccountingSupplierParty><cac:LegalMonetaryTotal><cbc:PayableAmount currencyID=\"EUR\">100.00</cbc:PayableAmount></cac:LegalMonetaryTotal></Invoice>"
+    },
+    {
+      "invoice_id": "INV-467886",
+      "profile": "Peppol BIS Billing 3.0",
+      "document": "<Invoice xmlns=\"urn:oasis:names:specification:ubl:schema:xsd:Invoice-2\"><cbc:CustomizationID>urn:fdc:peppol.eu:2017:poacc:billing:01:1.0</cbc:CustomizationID><cbc:ID>INV-467886</cbc:ID><cbc:IssueDate>2026-01-01</cbc:IssueDate><cbc:DocumentCurrencyCode>EUR</cbc:DocumentCurrencyCode><cac:AccountingSupplierParty><cac:Party><cbc:EndpointID schemeID=\"0088\">6826297069420</cbc:EndpointID></cac:Party></cac:AccountingSupplierParty><cac:LegalMonetaryTotal><cbc:PayableAmount currencyID=\"EUR\">100.00</cbc:PayableAmount></cac:LegalMonetaryTotal></Invoice>"
+    },
+    {
+      "invoice_id": "INV-176664",
+      "profile": "Peppol BIS Billing 3.0",
+      "document": "<Invoice xmlns=\"urn:oasis:names:specification:ubl:schema:xsd:Invoice-2\"><cbc:CustomizationID>urn:fdc:peppol.eu:2017:poacc:billing:01:1.0</cbc:CustomizationID><cbc:ID>INV-176664</cbc:ID><cbc:IssueDate>2026-01-01</cbc:IssueDate><cbc:DocumentCurrencyCode>EUR</cbc:DocumentCurrencyCode><cac:AccountingSupplierParty><cac:Party><cbc:EndpointID schemeID=\"0088\">7928127726271</cbc:EndpointID></cac:Party></cac:AccountingSupplierParty><cac:LegalMonetaryTotal><cbc:PayableAmount currencyID=\"EUR\">100.00</cbc:PayableAmount></cac:LegalMonetaryTotal></Invoice>"
+    },
+    {
+      "invoice_id": "INV-320839",
+      "profile": "Peppol BIS Billing 3.0",
+      "document": "<Invoice xmlns=\"urn:oasis:names:specification:ubl:schema:xsd:Invoice-2\"><cbc:CustomizationID>urn:fdc:peppol.eu:2017:poacc:billing:01:1.0</cbc:CustomizationID><cbc:ID>INV-320839</cbc:ID><cbc:IssueDate>2026-01-01</cbc:IssueDate><cbc:DocumentCurrencyCode>EUR</cbc:DocumentCurrencyCode><cac:AccountingSupplierParty><cac:Party><cbc:EndpointID schemeID=\"0088\">2457601072488</cbc:EndpointID></cac:Party></cac:AccountingSupplierParty><cac:LegalMonetaryTotal><cbc:PayableAmount currencyID=\"EUR\">100.00</cbc:PayableAmount></cac:LegalMonetaryTotal></Invoice>"
+    },
+    {
+      "invoice_id": "INV-915372",
+      "profile": "Peppol BIS Billing 3.0",
+      "document": "<Invoice xmlns=\"urn:oasis:names:specification:ubl:schema:xsd:Invoice-2\"><cbc:CustomizationID>urn:fdc:peppol.eu:2017:poacc:billing:01:1.0</cbc:CustomizationID><cbc:ID>INV-915372</cbc:ID><cbc:IssueDate>2026-01-01</cbc:IssueDate><cbc:DocumentCurrencyCode>EUR</cbc:DocumentCurrencyCode><cac:AccountingSupplierParty><cac:Party><cbc:EndpointID schemeID=\"0088\">4235351089393</cbc:EndpointID></cac:Party></cac:AccountingSupplierParty><cac:LegalMonetaryTotal><cbc:PayableAmount currencyID=\"EUR\">100.00</cbc:PayableAmount></cac:LegalMonetaryTotal></Invoice>"
+    },
+    {
+      "invoice_id": "INV-715166",
+      "profile": "Peppol BIS Billing 3.0",
+      "document": "<Invoice xmlns=\"urn:oasis:names:specification:ubl:schema:xsd:Invoice-2\"><cbc:CustomizationID>urn:fdc:peppol.eu:2017:poacc:billing:01:1.0</cbc:CustomizationID><cbc:ID>INV-715166</cbc:ID><cbc:IssueDate>2026-01-01</cbc:IssueDate><cbc:DocumentCurrencyCode>EUR</cbc:DocumentCurrencyCode><cac:AccountingSupplierParty><cac:Party><cbc:EndpointID schemeID=\"0088\">3062376359331</cbc:EndpointID></cac:Party></cac:AccountingSupplierParty><cac:LegalMonetaryTotal><cbc:PayableAmount currencyID=\"EUR\">100.00</cbc:PayableAmount></cac:LegalMonetaryTotal></Invoice>"
+    },
+    {
+      "invoice_id": "INV-892365",
+      "profile": "Peppol BIS Billing 3.0",
+      "document": "<Invoice xmlns=\"urn:oasis:names:specification:ubl:schema:xsd:Invoice-2\"><cbc:CustomizationID>urn:fdc:peppol.eu:2017:poacc:billing:01:1.0</cbc:CustomizationID><cbc:ID>INV-892365</cbc:ID><cbc:IssueDate>2026-01-01</cbc:IssueDate><cbc:DocumentCurrencyCode>EUR</cbc:DocumentCurrencyCode><cac:AccountingSupplierParty><cac:Party><cbc:EndpointID schemeID=\"0088\">2054586147589</cbc:EndpointID></cac:Party></cac:AccountingSupplierParty><cac:LegalMonetaryTotal><cbc:PayableAmount currencyID=\"EUR\">100.00</cbc:PayableAmount></cac:LegalMonetaryTotal></Invoice>"
+    },
+    {
+      "invoice_id": "INV-395651",
+      "profile": "Peppol BIS Billing 3.0",
+      "document": "<Invoice xmlns=\"urn:oasis:names:specification:ubl:schema:xsd:Invoice-2\"><cbc:CustomizationID>urn:fdc:peppol.eu:2017:poacc:billing:01:1.0</cbc:CustomizationID><cbc:ID>INV-395651</cbc:ID><cbc:IssueDate>2026-01-01</cbc:IssueDate><cbc:DocumentCurrencyCode>EUR</cbc:DocumentCurrencyCode><cac:AccountingSupplierParty><cac:Party><cbc:EndpointID schemeID=\"0088\">4199474351870</cbc:EndpointID></cac:Party></cac:AccountingSupplierParty><cac:LegalMonetaryTotal><cbc:PayableAmount currencyID=\"EUR\">100.00</cbc:PayableAmount></cac:LegalMonetaryTotal></Invoice>"
+    },
+    {
+      "invoice_id": "INV-501509",
+      "profile": "Peppol BIS Billing 3.0",
+      "document": "<Invoice xmlns=\"urn:oasis:names:specification:ubl:schema:xsd:Invoice-2\"><cbc:CustomizationID>urn:fdc:peppol.eu:2017:poacc:billing:01:1.0</cbc:CustomizationID><cbc:ID>INV-501509</cbc:ID><cbc:IssueDate>2026-01-01</cbc:IssueDate><cbc:DocumentCurrencyCode>EUR</cbc:DocumentCurrencyCode><cac:AccountingSupplierParty><cac:Party><cbc:EndpointID schemeID=\"0088\">5769237679068</cbc:EndpointID></cac:Party></cac:AccountingSupplierParty><cac:LegalMonetaryTotal><cbc:PayableAmount currencyID=\"EUR\">100.00</cbc:PayableAmount></cac:LegalMonetaryTotal></Invoice>"
+    },
+    {
+      "invoice_id": "INV-154370",
+      "profile": "Peppol BIS Billing 3.0",
+      "document": "<Invoice xmlns=\"urn:oasis:names:specification:ubl:schema:xsd:Invoice-2\"><cbc:CustomizationID>urn:fdc:peppol.eu:2017:poacc:billing:01:1.0</cbc:CustomizationID><cbc:ID>INV-154370</cbc:ID><cbc:IssueDate>2026-01-01</cbc:IssueDate><cbc:DocumentCurrencyCode>EUR</cbc:DocumentCurrencyCode><cac:AccountingSupplierParty><cac:Party><cbc:EndpointID schemeID=\"0088\">2986762376881</cbc:EndpointID></cac:Party></cac:AccountingSupplierParty><cac:LegalMonetaryTotal><cbc:PayableAmount currencyID=\"EUR\">100.00</cbc:PayableAmount></cac:LegalMonetaryTotal></Invoice>"
+    },
+    {
+      "invoice_id": "INV-212139",
+      "profile": "Peppol BIS Billing 3.0",
+      "document": "<Invoice xmlns=\"urn:oasis:names:specification:ubl:schema:xsd:Invoice-2\"><cbc:CustomizationID>urn:fdc:peppol.eu:2017:poacc:billing:01:1.0</cbc:CustomizationID><cbc:ID>INV-212139</cbc:ID><cbc:IssueDate>2026-01-01</cbc:IssueDate><cbc:DocumentCurrencyCode>EUR</cbc:DocumentCurrencyCode><cac:AccountingSupplierParty><cac:Party><cbc:EndpointID schemeID=\"0088\">0921600203529</cbc:EndpointID></cac:Party></cac:AccountingSupplierParty><cac:LegalMonetaryTotal><cbc:PayableAmount currencyID=\"EUR\">100.00</cbc:PayableAmount></cac:LegalMonetaryTotal></Invoice>"
+    },
+    {
+      "invoice_id": "INV-699062",
+      "profile": "Peppol BIS Billing 3.0",
+      "document": "<Invoice xmlns=\"urn:oasis:names:specification:ubl:schema:xsd:Invoice-2\"><cbc:CustomizationID>urn:fdc:peppol.eu:2017:poacc:billing:01:1.0</cbc:CustomizationID><cbc:ID>INV-699062</cbc:ID><cbc:IssueDate>2026-01-01</cbc:IssueDate><cbc:DocumentCurrencyCode>EUR</cbc:DocumentCurrencyCode><cac:AccountingSupplierParty><cac:Party><cbc:EndpointID schemeID=\"0088\">2029663432618</cbc:EndpointID></cac:Party></cac:AccountingSupplierParty><cac:LegalMonetaryTotal><cbc:PayableAmount currencyID=\"EUR\">100.00</cbc:PayableAmount></cac:LegalMonetaryTotal></Invoice>"
+    }
+  ]
+}
